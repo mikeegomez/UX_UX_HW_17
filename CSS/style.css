@@ -1,0 +1,93 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Avenirnext, sans-serif;
+   
+  
+
+
+   
+}
+
+.logo {
+    width: 23%;
+    padding: 10%;
+
+    text-align: center;
+}
+
+.nav {
+    width: 73%;
+    padding: 1%;
+    background-color: gold;
+}
+
+.ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* NAVIGATION */
+.navigation {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    opacity: 0.6;
+    color: #000;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: Avenirnext, sans-serif;
+
+}
+
+
+/* HERO IMAGE */
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+    font-family: Avenirnext, sans-serif;
+   
+}
+
+
+/* BUTTON */
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-family: Avenirnext, sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #373738;
+    
+    
+}
+
+.ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: center;
+}
+
+.li {
+    padding: center;
+}
+

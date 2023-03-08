@@ -2,30 +2,21 @@
     display: inline-block;
     vertical-align: top;
     font-family: Avenirnext, sans-serif;
-   
-  
-
-
-   
 }
 
 .logo {
     width: 23%;
-    padding: 10%;
-
+    padding: 1%;
     text-align: center;
 }
+
 
 .nav {
     width: 73%;
     padding: 1%;
-    background-color: gold;
 }
 
-.ul {
-    width: 50%;
-    margin-left: auto;
-}
+
 
 /* NAVIGATION */
 .navigation {
@@ -77,14 +68,14 @@
 
 .footer {
     background-color: #373738;
+    padding: 50px;
     
     
 }
 
 .ul {
-    display: inline-block;
-    vertical-align: top;
-    padding: center;
+    width: 50%;
+    margin-left: auto;
 }
 
 .li {

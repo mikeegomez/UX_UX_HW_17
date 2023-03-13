@@ -16,7 +16,10 @@
     padding: 1%;
 }
 
-
+nav ul {
+    width: 50%;
+    margin-left: auto;
+  }
 
 /* NAVIGATION */
 .navigation {
